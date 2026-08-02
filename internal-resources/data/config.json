@@ -39,16 +39,6 @@
           "videoLengthInMinutes": 0,
           "estimatedDeliveryTimeInMinutes": 0
         },
-        {
-          "friendlyName": "Enhance the Jukebox",
-          "dirName": "enhance-the-jukebox",
-          "type": "Level Up content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        }
       ],
       "isHeaderShown": true,
       "isHeaderModuleNavShown": true,
@@ -98,16 +88,6 @@
           "videoLengthInMinutes": 0,
           "estimatedDeliveryTimeInMinutes": 0
         },
-        {
-          "friendlyName": "Enhance the Jukebox",
-          "dirName": "enhance-the-jukebox",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        }
       ],
       "isHeaderShown": true,
       "isHeaderModuleNavShown": true,
