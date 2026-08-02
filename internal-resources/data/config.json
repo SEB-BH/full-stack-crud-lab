@@ -38,7 +38,7 @@
           "videoUrl": "",
           "videoLengthInMinutes": 0,
           "estimatedDeliveryTimeInMinutes": 0
-        },
+        }
       ],
       "isHeaderShown": true,
       "isHeaderModuleNavShown": true,
@@ -87,7 +87,7 @@
           "videoUrl": "",
           "videoLengthInMinutes": 0,
           "estimatedDeliveryTimeInMinutes": 0
-        },
+        }
       ],
       "isHeaderShown": true,
       "isHeaderModuleNavShown": true,
